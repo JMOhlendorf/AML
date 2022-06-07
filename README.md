@@ -1,4 +1,4 @@
 # AML
-Advanced Machine Learning
+Exercise sheets from **Advanced Machine Learning** course
 
-Exercise sheets
+**Topics:** Standard neural network, CNN, Famous architectures, Auto-Encoder, GANs, Invertible neural network, Gaussian processes, Directed Graphical Models
